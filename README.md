@@ -141,7 +141,11 @@ I enjoy turning ideas into real products with clean UI, solid functionality, and
 <p align="center">
   <img src="https://raw.githubusercontent.com/Dipan-Computer/Dipan-Computer/output/snake.svg" alt="Snake animation" />
 </p>
+## 🐍 Contribution Snake
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Dipan-Computer/Dipan-Computer/output/snake.svg" alt="Snake animation" />
+</p>
 ---
 
 ## 🌐 Connect With Me
