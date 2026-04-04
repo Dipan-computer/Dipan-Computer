@@ -101,7 +101,7 @@ I enjoy turning ideas into real products with clean UI, solid functionality, and
         <li>User realtime location are fetched & show local news</li>
       </ul>
       <p><b>Live Demo:</b><br/>
-      <a href="https://newsly-ai-dipan.netlify.app/">newsly-ai-dipan.netlify.app/</a></p>
+      <a href="https://newsly-ai-dipan.netlify.app/">newsly-ai-dipan.netlify.app</a></p>
     </td>
 
  <td width="50%" valign="top">
