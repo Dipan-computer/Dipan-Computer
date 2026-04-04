@@ -101,8 +101,22 @@ I enjoy turning ideas into real products with clean UI, solid functionality, and
         <li>User realtime location are fetched & show local news</li>
       </ul>
       <p><b>Live Demo:</b><br/>
-      <a href="https://newsly-ai-dipan.netlify.app/">ats-checker-dipan.netlify.app</a></p>
+      <a href="https://newsly-ai-dipan.netlify.app/">newsly-ai-dipan.netlify.app/</a></p>
     </td>
+
+ <td width="50%" valign="top">
+      <h3>📄 NewslyAI APP version</h3>
+      <p>
+        It is Personalised news app for general and student user. It has three mode general,student,Local.
+      </p>
+      <ul>
+        <li>It is personalised news</li>
+        <li> Current Affairs for student</li>
+        <li>User realtime location are fetched & show local news</li>
+      </ul>
+      <p><b>Live Demo:</b><br/>
+      <a href="https://drive.google.com/file/d/18ueyMWG7YADqWhhBhqjji_GGX6gxy3wH/view?usp=sharing">NewslyAI-APP</a></p>
+    </td>    
   </tr>  
   <tr>
     <td colspan="2" valign="top">
